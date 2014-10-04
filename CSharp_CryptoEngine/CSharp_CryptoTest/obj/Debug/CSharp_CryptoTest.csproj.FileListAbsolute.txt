@@ -1,9 +1,0 @@
-D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoTest\bin\Debug\Honti.CryptoEngine.Test.dll
-D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoTest\bin\Debug\Honti.CryptoEngine.Test.pdb
-D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoTest\bin\Debug\Honti.CryptoEngine.dll
-D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoTest\bin\Debug\Honti.RandomGenerator.dll
-D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoTest\bin\Debug\Honti.CryptoEngine.pdb
-D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoTest\bin\Debug\Honti.RandomGenerator.pdb
-D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoTest\obj\Debug\CSharp_CryptoTest.csprojResolveAssemblyReference.cache
-D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoTest\obj\Debug\Honti.CryptoEngine.Test.dll
-D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoTest\obj\Debug\Honti.CryptoEngine.Test.pdb
