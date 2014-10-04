@@ -1,0 +1,5 @@
+D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoEngine\bin\Debug\Honti.CryptoEngine.dll
+D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoEngine\bin\Debug\Honti.CryptoEngine.pdb
+D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoEngine\obj\Debug\CSharp_CryptoEngine.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoEngine\obj\Debug\Honti.CryptoEngine.dll
+D:\Documents\GitHub\CSharp_BasicCryptoEngine\CSharp_CryptoEngine\CSharp_CryptoEngine\obj\Debug\Honti.CryptoEngine.pdb
